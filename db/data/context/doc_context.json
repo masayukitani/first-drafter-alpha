@@ -1,0 +1,32 @@
+[
+    {
+    "title": "AI_Guidelines_for_Business.pdf", 
+    "metadata": {
+        "author": "Ministry of Internal Affairs and Communications Ministry of Economy, Trade and Industry",
+        "publication_date": "2024/04/19",
+        "language": "en",
+        "jurisdiction": "Japan",
+        "subject": "AI Governance"
+    }},
+    {
+    "title": "AI_Act.pdf",
+    "metadata": {
+        "author": "THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION",
+        "publication_date": "2024/06/13",
+        "language": "en",
+        "jurisdiction": "EU",
+        "subject": "AI Regulation"
+    }
+    },
+    {
+        "title": "AI_Guidelines_for_Business.pdf", 
+        "metadata": {
+            "author": "Model_AI_Governance_Framework_for_Generative_AI.pdf",
+            "publication_date": "2024/05/30",
+            "language": "en",
+            "jurisdiction": "Singapore",
+            "subject": "AI Governance"
+        }
+    }
+
+]

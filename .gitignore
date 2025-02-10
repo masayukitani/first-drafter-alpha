@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# lock file
+uv.lock
+
+# ruff cache
+.ruff_cache/
+
+# Virtual environments
+.venv
+
+# environment variables
+.env
+
+# db
+db/chroma_db/
+
+# other
+.DS_Store

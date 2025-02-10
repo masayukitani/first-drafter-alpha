@@ -1,0 +1,15 @@
+HELP_STATEMENT = (
+    "Hello! 😁\n"
+    "\n"
+    "I'm here to assist you with legal tasks. Below are the commands you can use:\n"
+    "\n"
+    "• /answer + your question: I will answer using my general knowledge.\n"
+    "• /research db + your question: I will look in my internal database for relevant documents and summarize them.\n"
+    "• /research web (optionally followed by 2 or 3): I will search the web and report a url and a summary of the content. If you specify 2 or 3, I will retrieve that many results.\n"
+    "• /em + your request: I will draft an email answering your question using our chat history and my general knowledge.\n"
+    "• /contract + contract type/details: I will draft a contract based on your specifications.\n"
+    "• /clear: Clears our chat history.\n"
+    "• /help: Shows this help message.\n"
+    "\n"
+    "If you don’t use a command, I will answer based on our chat history and my general knowledge.\n"
+)
