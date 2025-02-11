@@ -1,4 +1,4 @@
-# First Drafter experimental
+# First Drafter alpha
 
 **Slack-based chatbot with slash commands assisting lawyers in writing a first draft of reports, emails and contracts**
 
